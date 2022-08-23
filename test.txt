@@ -1,1 +1,3 @@
 Test file
+post git add
+Post commit
